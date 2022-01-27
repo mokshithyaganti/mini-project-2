@@ -1,1 +1,1 @@
-# mini-project-2
+# Decision AI Framework for Airline Price Prediction
